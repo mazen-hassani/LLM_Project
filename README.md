@@ -11,7 +11,7 @@ It is recommended to run the project on GitHub Codespaces.
 
 3- Run `python generate_embeddings.py` to generate embeddings for all questions and save to the questions_index.faiss
 
-4- Run `python app.py` and enter your question then you will get the answer for the most similar question from your FAQ list.
+4- Run `python app.py` and enter your question, then you will get the answer of the most similar question from your FAQ list.
 
 ## Useful links
 - https://python.langchain.com/docs/integrations/text_embedding/cohere
