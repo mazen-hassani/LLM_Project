@@ -13,3 +13,7 @@ It is recommended to run the project on GitHub Codespaces.
 
 4- Run `python app.py` and enter your question then you will get the answer for the most similar question from your FAQ list.
 
+## Useful links
+- https://python.langchain.com/docs/integrations/text_embedding/cohere
+- https://cohere.com/
+- https://faiss.ai/
