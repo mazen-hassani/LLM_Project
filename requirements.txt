@@ -1,4 +1,5 @@
 cohere
+pandas
 langchain
 faiss-cpu
 python-dotenv
