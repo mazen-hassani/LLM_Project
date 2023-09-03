@@ -1,6 +1,8 @@
 # FAQ Guru - LLM Project
 a small project (3-4) hours coding with a dear friend, we want to use Cohere and Langchain to build an app using LLM
 
+![](docs/demo.png)
+
 ## Usage
 
 ### Using GitHub Codespaces:
