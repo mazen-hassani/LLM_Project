@@ -13,7 +13,7 @@ a small project (3-4) hours coding with a dear friend, we want to use Cohere and
 3- Run `python embeddings_generator.py` to generate embeddings for all questions and save to the questions_index.faiss
 
 4- Run `python app.py` and enter your question, then you will get the answer of the most similar question from your FAQ list.
-
+    (Or) run using streamlit interface `streamlit run streamlit.py `
 ### Using Docker:
 - To run the project, open terminal within the project directory and run `docker compose up`
 - to stop it, Run `docker compose down` 
