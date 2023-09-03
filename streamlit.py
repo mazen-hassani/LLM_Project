@@ -13,10 +13,10 @@ mental_health_faq_filename = os.getenv("FAQ_DB")
 df = pd.read_csv(mental_health_faq_filename)
 embeddings = CohereEmbeddings(cohere_api_key=cohere_api_key)
 
-st.title("Medical Health FAQ")
+st.title("Mental Health FAQ")
 
 # Add a text input widget for the user to enter their question
-prompt = st.text_input("Enter your question about medical health:")
+prompt = st.text_input("Enter your question about mental health:")
 
 # Add a button widget to trigger the search
 if st.button("Search"):
